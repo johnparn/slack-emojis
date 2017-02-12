@@ -10,3 +10,5 @@ emojis:
     src: https://raw.githubusercontent.com/johnparn/slack-emojis/master/icons/ofab-logo.png
   - name: giraff
     src: https://raw.githubusercontent.com/johnparn/slack-emojis/master/icons/giraff-logo.png
+  - name: keyboardcrazy
+    src: https://raw.githubusercontent.com/johnparn/slack-emojis/master/icons/keyboardcrazy.gif
