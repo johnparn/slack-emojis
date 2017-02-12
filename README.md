@@ -2,17 +2,16 @@
 
 Custom emojis for Slack
 
-Install using th node module emojipack:
+Clone this repo and install node module _emojipack_:
 
 ```
 npm install -g emojipacks
 ```
 
-Then run to install the emojis:
+Run emojoipack to install:
 
 ```
 emojipacks
 ``` 
 
-
-
+Use the crio-emojis.yaml when file is requested.
