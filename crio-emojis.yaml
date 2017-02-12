@@ -1,0 +1,10 @@
+title: tpg-emojis
+emojis:
+  - name: crio
+    src: https://raw.githubusercontent.com/johnparn/slack-emojis/master/icons/crio-logo.png
+  - name: tpg
+    src: https://raw.githubusercontent.com/johnparn/slack-emojis/master/icons/tpg-logo.png
+  - name: efftre
+    src: https://raw.githubusercontent.com/johnparn/slack-emojis/master/icons/efftre-logo.png
+  - name: ofab
+    src: https://raw.githubusercontent.com/johnparn/slack-emojis/master/icons/ofab-logo.png
